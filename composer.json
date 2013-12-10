@@ -1,0 +1,5 @@
+{
+    "require": {
+       "zfcampus/zf-apigility-skeleton": "1.0.*@dev"
+    }
+}
